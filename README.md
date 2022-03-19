@@ -1,6 +1,6 @@
 # README #
 
-This is the repository for source of Third Mill courses
+This is the repository for source of ThirdMill courses
 
 ### Table of contents ###
 
