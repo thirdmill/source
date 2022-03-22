@@ -27,7 +27,7 @@ This is the repository for source of ThirdMill courses
     4. Anthropology & Eschatology
     5. Biblical Ethics
 
-## Legend ##
+### Legend ###
 
 c – Course Descriptions
 b – Badge Descriptions
