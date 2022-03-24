@@ -35,13 +35,13 @@ Folders
 |1.1.x.x|Kingdom, Covenants & Canon of the Old Testament|
 |1.2.x.x|Kingdom & Covenant in the New Testament|
 ||2 Theological Foundations|
-|2.1.x.x|The Apostles’ Creed|
-|2.2.x.x|Building Your Theology|
+|1.3.x.x|The Apostles’ Creed|
+|1.4.x.x|Building Your Theology|
 ||3 Old Testament Foundations|
-|3.1.x.x|The Pentateuch|
+|1.5.x.x|The Pentateuch|
 ||4 New Testament Foundations|
-|4.1.x.x|The Gospels|
-|4.2.x.x|The Book of Acts|  
+|1.6.x.x|The Gospels|
+|1.7.x.x|The Book of Acts|  
 
 Prefix of folders  
 
